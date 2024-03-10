@@ -42,7 +42,7 @@ This project aims to conduct a comprehensive analysis of the historical trends i
    - **Description:** A PowerPoint Presentation that explains everything done in the project.
 
 ### 6. How to Run
-   - **Instructions:** All the Jupyter notebooks are executable if all the cells are run in order.
+   - **Instructions:** All the Jupyter notebooks are executable if all the cells are run in order. Keep on installing the libraries as in the cells. 
 
 ### 7. Requirements
    - **Dependencies:** There are no dependencies as long as cells are run in order.
